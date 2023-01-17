@@ -1,1 +1,0 @@
-# Photo-Gallery--Katherine-Panora

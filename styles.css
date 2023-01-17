@@ -1,0 +1,37 @@
+img {
+    display: inline-block;
+    margin: 10px;
+}
+
+.gallery img {
+    height: 200px;
+    border: 5px outset #6495ED;
+}
+
+.gallery p {
+    text-align: center;
+    margin-top: 0;
+}
+body{
+    text-align:center;
+    background:url(https://garden.spoonflower.com/c/9032917/p/f/m/D5s8gsKG0iLWRSiCojHhY1QGCMm29baobdMibtYs0w-12LLGjbwRnRM1/Animal%20Tracks%2C%20SMALLER%20scale.jpg);
+    color:black;
+}
+
+h1{
+	margin:auto;
+    background-color:pink;
+    width:250px;
+    border: solid #FF69B4;
+}
+
+.user-align{
+    margin:auto;
+    background-color:pink;
+    width:200px;
+    border: solid #FF69B4;
+}
+
+input {
+	width:100px;
+}
